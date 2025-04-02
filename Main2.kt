@@ -1,4 +1,4 @@
-   fun main() {
+  fun main() {
         println("Digite um número:")
         val num = readLine()!!.toDouble()
 
