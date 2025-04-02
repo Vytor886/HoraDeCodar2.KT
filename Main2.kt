@@ -1,5 +1,4 @@
-fun main() {
-    fun main() {
+   fun main() {
         println("Digite um número:")
         val num = readLine()!!.toDouble()
 
@@ -9,5 +8,3 @@ fun main() {
             else -> println("O número é zero")
         }
     }
-
-}
