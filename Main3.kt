@@ -1,4 +1,3 @@
-fun main() {
     fun main() {
         println("Digite três números distintos:")
         val a = readLine()!!.toDouble()
